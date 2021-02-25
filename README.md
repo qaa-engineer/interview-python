@@ -444,9 +444,5 @@ a,b,c = tup</code></pre>
 <p>3. части памяти, зарезервированной библиотекой C.</p>
 <h3 id="h-80-return">80. Является ли функция допустимой, если она не имеет оператора return?</h3>
 <p>Функция, которая ничего не возвращает, возвращает объект None. Ключевое слово return необязательно обозначает конец функции, оно просто завершает ее, если присутствует. Обычно блок кода помечает функцию, и там, где заканчивается блок, заканчивается и тело функции.</p>
-<p>Читайте также:</p>
-<ul><li><a href="https://nuancesprog.ru/p/11285/">Разбор 7 ошибок&nbsp;Python</a></li><li><a href="https://nuancesprog.ru/p/11182/">Топ-5 ошибок при объявлении функций в&nbsp;Python</a></li><li><a href="https://nuancesprog.ru/p/11147/">Как найти выход из лабиринта с помощью&nbsp;Python</a></li></ul>
-<p>Читайте нас в&nbsp;<a href="https://t.me/nuancesproghumor">Telegram</a>,&nbsp;<a href="https://vk.com/nuancesprog">VK</a>&nbsp;и&nbsp;<a href="https://zen.yandex.ru/nuancesprog">Яндекс.Дзен</a></p>
-<hr class="wp-block-separator">
-<p><em>Перевод статьи</em> <a href="https://medium.com/@cornelliusyudhawijaya" target="_blank" rel="noreferrer noopener">Cornellius Yudha Wijaya</a>: <a href="https://towardsdatascience.com/80-python-interview-practice-questions-f1640eea66ac" rel="noreferrer noopener" target="_blank">80 Python Interview Practice Questions</a></p>
+
 </div>
